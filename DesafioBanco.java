@@ -6,12 +6,6 @@ public class DesafioBanco {
         String tipoConta = "Corrente";
         double saldo = 0;
         int opcao = 0;
-        /*String tipoConta;
-        String nomeCliente;
-        System.out.print("Informe seu nome completo: ");
-        nomeCliente = scanner.nextLine();
-        System.out.print("Informe o tipo de conta que deseja abrir: (Poupança | Corrente) ");
-        tipoConta = scanner.nextLine();*/
 
         String perfilCliente = """
                 ***********************
